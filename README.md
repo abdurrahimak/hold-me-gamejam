@@ -1,2 +1,2 @@
 # hold-me-gamejam
-Hold Me !
+the game was writed at pure game jam of ieee hacettepe
